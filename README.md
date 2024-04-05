@@ -6,7 +6,7 @@ I asked kenney to add some features to his starter kit for city builder, but he 
 
 # Starter Kit City Builder
 
-This package includes a basic template for a 3D city builder in Godot 4.1.1.stable.official. Includes features like;
+This package includes a basic template for a 3D city builder in Godot 4.2.0.stable.official. Includes features like;
 
 - Building and removing structures
 - Smooth camera controls
