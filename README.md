@@ -1,4 +1,7 @@
 <p align="center"><img src="icon.png"/></p>
+Note
+I asked kenney to add some features to his starter kit for city builder, but he said that he had no plans to update it.
+<p><img src="https://github.com/Coderchris842/Starter-Kit-City-Builder-Better/assets/104386018/b115e139-24e1-4594-90bc-cfed4716c7be"></p>
 
 # Starter Kit City Builder
 
